@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**shreeya-bytes/shreeya-bytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there! 👋 I'm Shreeya
 
-Here are some ideas to get you started:
+🎓 Engineering Student | Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about exploring technology, solving problems and building things that make a difference.
+
+### 💻 Currently Exploring
+- Python
+- Artificial Intelligence & Machine Learning
+- Web Development
+- Data Structures & Algorithms
+- Git and GitHub
+
+### 🚀 What I'm Working Towards
+- Building real-world projects
+- Strengthening my programming fundamentals
+- Exploring open-source contributions
+- Preparing for internships and career opportunities
+
+### 🌱 My Philosophy
+Learn something new. Build something useful. Repeat.
+
+### 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/shreeya-v-517629235
+
+---
+⭐ Thanks for visiting my profile!
